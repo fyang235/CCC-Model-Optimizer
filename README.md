@@ -29,8 +29,7 @@ Uniform search is slow for fine tuning
 Combine uniform sampling with Gaussian sampling  
 <img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/uniform_and%20gaussian_search.png" height="300">   
 ### 3. Using only uniform and Gaussian sampling 
-<img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/10_iterations_with_gaussian.png" height="300">   
-<img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/compare_uniform_and_gaussian_search.png" height="300">   
+<img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/10_iterations_with_gaussian.png" height="300"><img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/compare_uniform_and_gaussian_search.png" height="300">   
 ### 4. Data visualization
 For data from different sources  
 <img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/data_visulization.png" height="300">   
