@@ -19,25 +19,21 @@ Optimize Your Kinetic Model with One Click
 ## Results:
 
 ### 1. Using only uniform sampling  
-![](https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/10_iterations.png)  
-![](https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/20_iterations.png)
-![](https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/30_iterations.png)
-![](https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/40_iterations.png)  
+ <img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/10_iterations.png" height="300"><img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/20_iterations.png" height="300">  
+ <img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/30_iterations.png" height="300"><img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/40_iterations.png" height="300">  
 
 ### 2. Using only uniform sampling   
 Uniform search is slow for fine tuning    
-![](https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/uniform_search.png)  
+<img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/uniform_search.png" height="300">   
 
 Combine uniform sampling with Gaussian sampling  
-![](https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/uniform_and%20gaussian_search.png)  
-
+<img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/uniform_and%20gaussian_search.png" height="300">   
 ### 3. Using only uniform and Gaussian sampling 
-![](https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/10_iterations_with_gaussian.png)  
-![](https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/compare_uniform_and_gaussian_search.png) 
-
+<img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/10_iterations_with_gaussian.png" height="300">   
+<img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/compare_uniform_and_gaussian_search.png" height="300">   
 ### 4. Data visualization
 For data from different sources  
-![](https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/data_visulization.png)  
+<img src="https://github.com/fyang235/CCC-Model-Optimizer/blob/master/Mech_modifier_v3/Images/data_visulization.png" height="300">   
 
 ## Enjoy!
 
